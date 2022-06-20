@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm kura</h1>
-<h3 align="center">A software engineer from Hamburg, Germany</h3>
+<h3 align="center">Software engineer from Hamburg, Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ku-ra&label=Profile%20views&color=0e75b6&style=flat" alt="ku-ra" /> </p>
 
 - 🔭 I’m currently working on [NFT Exchange Platform](https://github.com/ku-ra/nft-exchange)
 
-- 🌱 I’m currently learning **Solidity,**
+- 🌱 I’m currently learning **Solidity, Smart Contract Security**
 
 - 👨‍💻 All of my projects are available at [-](-)
 
